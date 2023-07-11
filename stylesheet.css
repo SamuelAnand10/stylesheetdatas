@@ -1,0 +1,71 @@
+
+body{
+  background-image: url("https://previews.123rf.com/images/annagolant/annagolant1806/annagolant180601560/103193277-light-blue-pattern-with-wavy-lines-modern-minimalist-design-a-simple-background-for-design-sites.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  font-family: Raleway, sans-serif;
+  font-weight: 400;
+  color: #ffffff;
+  margin: 0;
+  padding: 0;
+}
+
+h1{
+    font-size: medium;
+    width: 50vw;
+     height: 30vh;
+     padding: 10px;
+  background-color: rgb(8, 163, 111);
+}
+
+h2{
+    font-size: small;
+}
+
+p{
+    font-size: smaller;
+    font-weight: 200;
+}
+
+li{
+
+    font-size: medium;
+    width: 50vw;
+  height: 30vh;
+  padding: 10px;
+  background-color: rgb(8, 163, 111);
+}
+
+ul{
+    font-size: small;
+
+}
+
+button{
+    padding: 5px;
+    background-color: rgb(114, 117, 116);
+    width: 40vw;
+  height: 20vh;
+}
+
+div{
+    font-size: medium;
+    width: 50vw;
+  height: 30vh;
+  padding: 10px;
+  background-color: rgba(194, 14, 167, 0.797);
+}
+
+a {
+    font-size: smaller;
+    text-decoration: none;
+  }
+
+  form{
+    font-size: medium;
+    width: 50vw;
+  height: 30vh;
+  padding: 10px;
+  background-color: rgb(62, 78, 252)
+  }
+  
